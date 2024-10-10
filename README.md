@@ -1,6 +1,6 @@
 # JS Project "Calculator"
 
-That you can try [here](https://mrrusfr.github.io/Calculator/)
+That you can try [here](https://mrrusfr.github.io/port-folio/)
 
 ## Purpose:
 
