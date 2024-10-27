@@ -10,3 +10,12 @@ document.getElementById("myCompetences").addEventListener('click', function next
 document.getElementById("myContacts").addEventListener('click', function nextPart() {
     document.getElementById("contact").scrollIntoView(true);
     })
+
+function download(url) {
+    const a = document.createElement('a')
+    a.href = url
+    a.download = url.split('/').pop()
+    document.body.appendChild(a)
+    a.click()
+    document.body.removeChild(a)
+    }
