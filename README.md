@@ -1,17 +1,10 @@
-# JS Project "Calculator"
+# My site CV
 
 That you can try [here](https://mrrusfr.github.io/port-folio/)
 
 ## Purpose:
 
-I have created a JavaScript application that allows you to perform the
-following basic operations:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Average of a set of numbers
-- Calculation of the percentage
+I have created a page to let you  get acquainted with my projects and competences.
   
 ## Programming languages:
 
