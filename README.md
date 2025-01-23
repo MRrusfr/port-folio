@@ -1,6 +1,6 @@
 # My site CV
 
-That you can try [here](https://mrrusfr.github.io/portfolio/)
+That you can try [here](https://mrrusfr.github.io/port-folio/)
 
 ## Purpose:
 
